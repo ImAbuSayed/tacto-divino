@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tacto-divino/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tacto divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-divino/) |
+| **Get License** | [Get a Licensing Quote for Tacto divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-divino/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero ese tacto divino para tocar el cielo
+> Eres la reina del club y yo caigo en tu juego
+> Rompiendo la pista, bailando sin un consuelo
+> Dime que te vas conmigo, que yo soy tu anhelo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
