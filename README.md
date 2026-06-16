@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tacto-divino/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tacto divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-divino/) |
+| **Get License** | [Music Rights & Licensing for Tacto divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-divino/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c090b66fbe002bb8cbec608e7b9965d3fb8b35f8cba8d020efb5c178c513a4f9` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
